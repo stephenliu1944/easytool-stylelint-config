@@ -1,0 +1,14 @@
+﻿node_modules
+build
+dist
+bin/*.log
+.idea
+.settings
+*.log
+*.iml
+*.project
+.DS_Store
+.vscode
+/index.js
+/vue.js
+/common.js
